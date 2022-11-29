@@ -1,4 +1,4 @@
-//product-queries:
+//product-  queries
 
 // 1. Find all the information about each products?
 
